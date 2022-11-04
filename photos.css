@@ -1,0 +1,7 @@
+img {
+  width: 30%;
+  margin: 1.66666%;
+  /* 30% of the parent element which is the body */
+  /* without flexbox, margin has to be calculated with division. 
+  We have to divide 10% and divide it by 6 which is 1.6666...% */
+}
