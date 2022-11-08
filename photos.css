@@ -7,3 +7,8 @@ img {
   margin: calc(10% / 6);
   /* split 10% 6 ways */
 }
+
+nav {
+  text-transform: uppercase;
+  border-bottom: 2px solid #f1f1f1;
+}
